@@ -14,5 +14,10 @@ namespace SillyTest.Controllers
         {
             return View();
         }
+
+        public ActionResult SillyView()
+        {
+            return View();
+        }
 	}
 }
